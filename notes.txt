@@ -1,0 +1,28 @@
+Capital Asset Pricing Model: Ra = Rf + B(Rm - Rf)
+- Independent usage
+    -Is a stock fairly priced when comparing expected return with time value and curent risk
+-Risk Free Rate(Rf)
+    - the chance you get money back
+    - practicly,government bonds and treasury bills are a benchmark for rfr
+    -any other investment has a higher rfr than the government
+-Beta(B)L B = (Covariance(Ri, Rm))/(Variance(Rm))
+    - How an asset moved in reponse to the rise and fall of the market
+    - Beta of whole market = 1
+    - measures stock volatility
+    - Covariance
+        - Rm = Market Index average return = reflects health of overall market
+            - S and P 500 return
+            -Dow Jones return
+        - Ri = percent return
+    - Variance
+        - Market index return
+
+-Expected Market Return(Rm)
+- What does CAPM show?
+    - Help calulate WACC(Weighted Average Capital Cost)
+        - Uses Cost of Dept and Cost of Equity as factors
+        - Used to calulate Discounted Cash Flow
+        - CAPM is used as cost of equity
+        - If no Debt example
+            - Discount factor = 1 + CAPM
+            - Present value of expected future cash flow = Expected future cash flow / 1 + CAPM
